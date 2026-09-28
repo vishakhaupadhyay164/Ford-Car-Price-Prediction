@@ -1,5 +1,3 @@
-# Ford-Car-Price-Prediction
-Ford car price prediction project using Python, Pandas, data analysis, visualization, and machine learning.
 # Ford Car Price Prediction
 
 ## Project Overview
